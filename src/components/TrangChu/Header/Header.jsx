@@ -115,7 +115,7 @@ const Header = () => {
           <img
             style={{ cursor: "pointer", height: "5vh" }}
             onClick={() => navigate("/")}
-            src="/Remove-bg.ai_1726163241481.png"
+            src="/Logo.png"
             alt="logo"
           />
         </Col>
